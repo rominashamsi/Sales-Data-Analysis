@@ -18,7 +18,6 @@ The objective was to identify sales trends, regional performance, customer behav
 ## 1. Which region generated the highest sales over time?
 
 ![Quarterly Sales by Region](images/quarterly_sales_by_region.png)
-
 ### Findings
 
 - The West region consistently generated the highest quarterly sales.
@@ -38,8 +37,6 @@ To identify the main driver behind the West region's strong seasonal performance
 |2016|Furniture|21,761|
 |2017|Furniture|30,411|
 |2018|Furniture|32,119|
-
-![Sales by Category](images/sales_by_category_q4_west.png)
 
 ### Findings
 

@@ -16,7 +16,6 @@ The objective was to identify sales trends, regional performance, customer behav
 ## Business Questions
 
 ## 1. Which region generated the highest sales over time?
-
 ![Quarterly Sales by Region](images/quarterly_sales_by_region.png)
 ### Findings
 - The West region consistently generated the highest quarterly sales.

@@ -25,7 +25,27 @@ The objective was to identify sales trends, regional performance, customer behav
 - Sales across all regions generally peaked during Q4, indicating a recurring seasonal pattern.
 - Based on these findings, the next analysis focuses on the West region during Q4 to identify the key drivers of sales.
 
-2. Which product category contributed most to sales in the West region during Q4?
+
+## Business Question 2
+
+### Which product category generated the highest sales in the West region during Q4?
+
+To identify the main driver behind the West region's strong seasonal performance, product categories were analyzed during the fourth quarter (Q4) for each year from 2015 to 2018.
+
+| Year (Q4) | Top Category | Sales |
+|-----------|--------------|-------:|
+|2015|Furniture|20,558|
+|2016|Furniture|21,761|
+|2017|Furniture|30,411|
+|2018|Furniture|32,119|
+
+![Sales by Category](images/sales_by_category_q4_west.png)
+
+### Findings
+
+- Furniture was the highest-selling product category in the West region during Q4 in every year from 2015 to 2018.
+- Furniture sales increased from approximately 20.6K in 2015 to 32.1K in 2018, indicating sustained growth.
+- The results suggest that Furniture consistently played a key role in the West region's strong Q4 performance.
 
 3. Which customer segment contributed the most?
 

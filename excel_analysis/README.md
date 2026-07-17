@@ -25,7 +25,7 @@ The objective was to identify sales trends, regional performance, customer behav
 
 ## Business Question 2
 
-### Which product category generated the highest sales in the West region during Q4?
+## 2. Which product category generated the highest sales in the West region during Q4?
 
 To identify the main driver behind the West region's strong seasonal performance, product categories were analyzed during the fourth quarter (Q4) for each year from 2015 to 2018.
 

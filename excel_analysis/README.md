@@ -54,7 +54,7 @@ To identify the main driver behind the West region's strong seasonal performance
 
 ## 4. Which products generated the highest sales across different customer segments?
 
-images/sales_by_product_segment.png
+![Sales by Product Segment](images/sales_by_product_segment.png)
 ### Findings
 
 - Phones and Chairs were the highest-selling products across all customer segments.

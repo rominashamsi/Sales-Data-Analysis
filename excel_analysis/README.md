@@ -54,4 +54,11 @@ To identify the main driver behind the West region's strong seasonal performance
 
 ## 4. Which products generated the highest sales across different customer segments?
 
+images/sales_by_product_segment.png
+### Findings
+
+- Phones and Chairs were the highest-selling products across all customer segments.
+- The Consumer segment generated the largest share of sales for most products.
+- Corporate customers also contributed significantly, particularly for high-value products.
+- Home Office customers accounted for the smallest share of sales across most product categories.
 

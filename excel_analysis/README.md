@@ -19,7 +19,6 @@ The objective was to identify sales trends, regional performance, customer behav
 
 ![Quarterly Sales by Region](images/quarterly_sales_by_region.png)
 ### Findings
-
 - The West region consistently generated the highest quarterly sales.
 - Sales across all regions generally peaked during Q4, indicating a recurring seasonal pattern.
 - Based on these findings, the next analysis focuses on the West region during Q4 to identify the key drivers of sales.

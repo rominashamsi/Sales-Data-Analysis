@@ -42,6 +42,16 @@ To identify the main driver behind the West region's strong seasonal performance
 - Furniture sales increased from approximately 20.6K in 2015 to 32.1K in 2018, indicating sustained growth.
 - The results suggest that Furniture consistently played a key role in the West region's strong Q4 performance.
 
-3. Which customer segment contributed the most?
+## 3. Which region contributed the most to overall sales and profit?
+   images/profit_sales_by_region.png
 
-4. Which products generated the highest sales?
+   ### Findings
+
+- The West region contributed the highest share of both total sales and total profit.
+- The East region ranked second in both sales and profit.
+- South generated the lowest contribution, while Central showed moderate performance.
+- The similar distribution of sales and profit across regions suggests that higher sales generally resulted in higher profit.
+
+## 4. Which products generated the highest sales across different customer segments?
+
+

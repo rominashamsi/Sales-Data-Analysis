@@ -43,7 +43,7 @@ To identify the main driver behind the West region's strong seasonal performance
 - The results suggest that Furniture consistently played a key role in the West region's strong Q4 performance.
 
 ## 3. Which region contributed the most to overall sales and profit?
-   images/profit_sales_by_region.png
+   ![Profit](images/profit_sales_by_region.png)
 
    ### Findings
 
